@@ -1,0 +1,2 @@
+# LabEquipManage
+SE final project
